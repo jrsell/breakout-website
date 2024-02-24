@@ -1,4 +1,4 @@
 # breakout
 Static Website
 
-Stored in github. Published to Azure Static Websites...
+Stored in github. Published to Github Pages. 
